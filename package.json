@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "react-complex-tree": "^1.1.9",
-    "modelui-core-runtime": "../modelui-core-runtime",
+    "modelui-core-runtime": "git+https://github.com/modellers/modelui-core-runtime",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-scripts": "3.4.1"
